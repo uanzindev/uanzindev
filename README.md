@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/aurora-veil.svg" alt="uanzindev — infraestrutura, segurança e web" width="100%" />
+  <img src="./assets/aurora-veil.svg?v=2" alt="uanzindev — infraestrutura, segurança e web" width="100%" />
 </p>
 
 <table align="center" width="80%">
