@@ -2,22 +2,17 @@
   <img src="./assets/aurora-veil.svg" alt="uanzin33 — código e criatividade" width="100%" />
 </p>
 
-<table align="center" width="80%" border="0">
+<table align="center" width="80%">
   <tr>
-    <td valign="top" align="left">
-
-### agora
-
-Criando coisas na interseção de código, criatividade e inteligência artificial.
-
-### por aqui
-
-Este é meu laboratório digital: ideias viram projetos, testes viram aprendizado e o próximo experimento já está a caminho.
-
+    <td width="64%" valign="top">
+      <h3>agora</h3>
+      <p>Criando coisas na interseção de código, criatividade e inteligência artificial.</p>
+      <h3>por aqui</h3>
+      <p>Este é meu laboratório digital: ideias viram projetos, testes viram aprendizado e o próximo experimento já está a caminho.</p>
     </td>
-    <td valign="top" align="right" width="36%">
-      <em>"a curiosidade é o começo de toda criação"</em><br><br>
-      <a href="https://www.tiktok.com/@uanzindead">TikTok · @uanzindead</a>
+    <td width="36%" valign="top" align="right">
+      <p><em>“a curiosidade é o começo de toda criação”</em></p>
+      <p><a href="https://www.tiktok.com/@uanzindead">TikTok · @uanzindead</a></p>
     </td>
   </tr>
 </table>
